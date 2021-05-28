@@ -2,4 +2,4 @@ remote machine add somethings
 
 local update readme.md
 
-branch test
+branch test aaa bbb
